@@ -1,0 +1,4 @@
+project_id = "ykejjfazbmgznlnjfugn"
+
+[functions.todo-chat]
+verify_jwt = false
